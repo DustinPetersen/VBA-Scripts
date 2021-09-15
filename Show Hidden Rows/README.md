@@ -1,0 +1,1 @@
+Occasionally, large Excel files contain hidden lines for better clarity. Here’s a macro that will unhide all rows from an active worksheet:

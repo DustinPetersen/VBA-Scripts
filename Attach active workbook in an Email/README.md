@@ -1,0 +1,1 @@
+My favorite VBA code. It lets you attach and send the file you’re working on with a predefined email address, message title, and message body! You first need to set reference to Microsoft Outlook (in your VBA editior, click on tools => references and choose Microsoft Outlook).

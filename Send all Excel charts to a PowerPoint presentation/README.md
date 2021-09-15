@@ -1,0 +1,1 @@
+A very handy macro that lets you add all your Excel charts in your Powerpoint presentation just with a single click:

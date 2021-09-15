@@ -1,0 +1,1 @@
+sorts in ascending order all numbers from the active cell’s column. Just double click any cell from a column you would like to sort. NB: You need to put the code in Sheet 1 and not in a module to work:

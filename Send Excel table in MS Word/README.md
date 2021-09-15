@@ -1,0 +1,1 @@
+Excel tables are usually put inside text documents. Here is an automated way of exporting your Excel table to MS Word:

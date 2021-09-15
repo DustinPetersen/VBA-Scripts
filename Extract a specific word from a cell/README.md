@@ -1,0 +1,3 @@
+We can use formulas if we want to extract certain number of symbols. But what if we want to extract only the second word from a sentence or a range of words in a cell? To do this, we can create a custom Excel function with VBA. This is one of the most iportant VBA functionalities, because it lets you create your own functions that are non-existent in MS Excel. Let’s go on and create two functions: findword() and findwordrev(). Here’s the vba code for this:
+
+Very nice, we have created two cstom Excel functions. Now, try to use them in Excel. The function = FindWordRev (A1,1) takes the last word from cell A1. The function = FindWord (A1,3) takes the third word from cell A1, etc.

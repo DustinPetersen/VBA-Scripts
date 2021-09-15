@@ -1,0 +1,1 @@
+This is extremely useful when you work with functions that take strings, however, someone entered the string with a mistake and your formulas are not working. Here is how to fix this issue:

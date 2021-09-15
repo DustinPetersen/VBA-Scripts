@@ -1,0 +1,1 @@
+Sometimes we want to protect the data in our file so that only we can change it. Here’s how to do this with VBA:
